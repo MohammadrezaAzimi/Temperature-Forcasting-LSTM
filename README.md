@@ -16,4 +16,4 @@ A sequence of 32 gated recurrent units (GRUs) is used to capture the dependency 
 
 3. The last improvement is to use bidirectional GRU in which the dependency of data points in both forward and backward directions is analyzed.   
 
-The performance is the same as the first example and the reason is that the capacity of proposed model is used in the most efficient way.  
+The performance is the same as the first example and the reason is that the capacity of proposed model is already obtained.  
